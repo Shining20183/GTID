@@ -1,0 +1,21 @@
+Bot_FriTcp.pcap.TCP_192-168-10-5_50221_205-174-165-73_8080.pcap.csv,0
+Bot_FriTcp.pcap.TCP_192-168-10-5_50575_205-174-165-73_8080.pcap.csv,0
+Bot_FriTcp.pcap.TCP_192-168-10-5_53340_205-174-165-73_8080.pcap.csv,0
+Bot_FriTcp.pcap.TCP_192-168-10-8_2859_205-174-165-73_8080.pcap.csv,0
+Bot_FriTcp.pcap.TCP_192-168-10-8_4866_205-174-165-73_8080.pcap.csv,0
+Bot_FriTcp.pcap.TCP_192-168-10-9_3652_205-174-165-73_8080.pcap.csv,0
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34850_192-168-10-50_80.pcap.csv,1
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34852_192-168-10-50_80.pcap.csv,1
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34854_192-168-10-50_80.pcap.csv,1
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34856_192-168-10-50_80.pcap.csv,1
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34858_192-168-10-50_80.pcap.csv,1
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34860_192-168-10-50_80.pcap.csv,1
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34862_192-168-10-50_80.pcap.csv,1
+DoS GoldenEye_WedTcp.pcap.TCP_172-16-0-1_34864_192-168-10-50_80.pcap.csv,1
+PortScan_FriTcp.pcap.TCP_172-16-0-1_38328_192-168-10-50_2702.pcap.csv,2
+PortScan_FriTcp.pcap.TCP_172-16-0-1_38330_192-168-10-50_5862.pcap.csv,2
+PortScan_FriTcp.pcap.TCP_172-16-0-1_38332_192-168-10-50_10000.pcap.csv,2
+PortScan_FriTcp.pcap.TCP_172-16-0-1_38334_192-168-10-50_5555.pcap.csv,2
+PortScan_FriTcp.pcap.TCP_172-16-0-1_38334_192-168-10-50_7019.pcap.csv,2
+PortScan_FriTcp.pcap.TCP_172-16-0-1_38336_192-168-10-50_1096.pcap.csv,2
+PortScan_FriTcp.pcap.TCP_172-16-0-1_38336_192-168-10-50_3031.pcap.csv,2

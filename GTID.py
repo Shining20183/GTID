@@ -69,7 +69,7 @@ def write_result(fin, label_y, pre_y, classes_num):
 
 class Config:
     def __init__(self):
-        self.model_name = 'TSID'
+        self.model_name = 'GTID'
         self.slide_window = 2
         self.slsum_count = int(math.pow(16, self.slide_window))  # 滑动窗口计数的特征的长度
         self.dnn_out_d = 8  # 经过DNN后的滑动窗口计数特征的维度

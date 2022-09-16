@@ -1,1 +1,1 @@
-# code for TSID
+# code for GTID
